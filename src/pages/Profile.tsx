@@ -21,7 +21,7 @@ const Profile = () => {
             </div>
           </div>
 
-          <div className="flex h-[63px] mb-[20px] ">
+          <div className="flex h-[63px] mb-[30px] ">
             <span className="text-[14px] text-left">
               Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam
               Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam
