@@ -4,8 +4,8 @@ const Landing = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="flex flex-col px-[20px] justify-end h-screen    ">
-      <div className="flex flex-col ">
+    <div className="flex flex-col px-[20px] justify-end h-screen">
+      <div className="flex flex-col">
         <span className="text-[26.5px] h-[33px] font-bold text-left">
           Welcome to PopX
         </span>
